@@ -4,6 +4,4 @@ may conflict with Prop Protection addons that themselves do that but it should s
 
 =======
 
-3 lines to remove Gravity Gun punting in Garry's Mod
-
 DO NOT UPLOAD ANYTHING THAT I DO ON THE WORKSHOP.
